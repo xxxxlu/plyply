@@ -1,4 +1,4 @@
-# pakistan-snacks-shop
+# plyply.online
 
 ## Project setup
 ```
