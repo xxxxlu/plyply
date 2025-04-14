@@ -16,16 +16,6 @@
               <div>
                 <h3>Email</h3>
                 <p>plyply@ply.online</p>
-                <p>support@ply.online</p>
-              </div>
-            </div>
-
-            <div class="info-item">
-              <span class="material-icons">location_on</span>
-              <div>
-                <h3>Address</h3>
-                <p>123 Food Street, Gulberg</p>
-                <p>Lahore, Pakistan</p>
               </div>
             </div>
 

@@ -48,7 +48,7 @@
           </div>
         </div>
         <div class="copyright">
-          <p>&copy; Copyright © 2025 Powered by Data Network Solutions (SMC-Private) Limited</p>
+          <p>Copyright © 2025 PLY PLY Store. Powered by Data Tech Solutions (SMC-Private) Limited</p>
         </div>
       </div>
     </footer>
